@@ -1,4 +1,4 @@
-# Pating Backup Manager
+# 🦈 Pating Backup Manager 🦈
 ## A simple file and folder backup manager for Linux and Windows, designed to make scheduled backups easy to configure and manage.
 
 ### Features
