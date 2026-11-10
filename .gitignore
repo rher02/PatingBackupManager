@@ -1,0 +1,9 @@
+*.spec
+/src/backup_manager/__pycache__
+/scripts
+/docs
+/releases
+/dist
+/build
+/.venv
+/.venv-build
